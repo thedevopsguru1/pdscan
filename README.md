@@ -29,6 +29,16 @@ Download the latest version:
 - Windows - [x86_64](https://github.com/ankane/pdscan/releases/download/v0.1.8/pdscan-0.1.8-x86_64-windows.zip)
 
 You can also install it with [Homebrew](#homebrew) or [Docker](#docker).
+```
+wget https://github.com/ankane/pdscan/releases/download/v0.1.8/pdscan-0.1.8-x86_64-linux.zip
+```
+```
+apt-get install unzip -y
+```
+```
+unzip the file downloaded
+```
+#### Then run the below
 
 ## Data Stores
 
